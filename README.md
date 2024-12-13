@@ -1,4 +1,4 @@
-# interproj
+# interproject
 
 A new Flutter project.
 
