@@ -94,7 +94,6 @@ class LoginPage extends StatelessWidget {
       ],
     );
   }
-
   _forgotPassword(context) {
     return Row(
       mainAxisAlignment:
