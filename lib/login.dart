@@ -38,7 +38,6 @@ class LoginPage extends StatelessWidget {
       ],
     );
   }
-
   _logo(context) {
     return Column(
       children: [
