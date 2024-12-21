@@ -161,7 +161,6 @@ class LoginPage extends StatelessWidget {
       ),
     );
   }
-
   _or(context) {
     return const Row(
       children: [
