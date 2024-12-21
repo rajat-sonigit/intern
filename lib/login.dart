@@ -183,7 +183,6 @@ class LoginPage extends StatelessWidget {
       ],
     );
   }
-
   _signup(context) {
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
