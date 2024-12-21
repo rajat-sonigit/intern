@@ -51,7 +51,6 @@ class LoginPage extends StatelessWidget {
       ],
     );
   }
-
   _inputField(context) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
