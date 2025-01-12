@@ -45,7 +45,6 @@ class SignPage extends StatelessWidget {
       ),
     );
   }
-
   _header(context) {
     return const Column(
       children: [
